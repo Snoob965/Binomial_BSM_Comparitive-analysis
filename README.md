@@ -41,7 +41,11 @@ The engine utilizes `PyQt5` to bypass standard Tkinter limitations, generating a
 
 > 
 
-https://github.com/user-attachments/assets/3251de04-cd0c-4bed-b9c5-9f5d16a84e58
+
+
+https://github.com/user-attachments/assets/1f0b6f3b-9009-4a9f-a557-1e5483262522
+
+
 
 
 
